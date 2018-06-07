@@ -20,7 +20,7 @@ def copy_list2(list):
 
 
 def copy_list3(list):
-    # 使用列表自带的copy方法
+    # 使用copy模块的copy方法
     return copy.copy(list)
 
 
